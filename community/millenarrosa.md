@@ -22,7 +22,9 @@ Integro essas competências para contribuir de forma efetiva em projetos inovado
 
 
 
-\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-@millenarrosa-gray?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=0077B5)](https://www.linkedin.com/in/millenarrosa/)
+!\[LinkedIn](https://img.shields.io/badge/LinkedIn-@millenarrosa-gray?style=for-the-badge\\\&logo=linkedin\\\&logoColor=white\\\&labelColor=0077B5)
+
+
 
 
 
